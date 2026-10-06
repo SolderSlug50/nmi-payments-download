@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for NMI Payments.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit NMI Payments on SOFTGIT](https://softgit.pro/p/nmi-payments)** — the full listing.
+- 📄 **[NMI Payments web page](https://solderslug50.github.io/nmi-payments-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for NMI Payments. Third-party software; all rights belong to the original authors.
